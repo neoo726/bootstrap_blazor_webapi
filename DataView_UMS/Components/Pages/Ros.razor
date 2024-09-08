@@ -1,27 +1,27 @@
 ﻿@page "/ros"
 @attribute [TabItemOption(Text = "ROS")]
+@using DataView_UMS.Models.HttpModels
 <PageTitle>Table</PageTitle>
-
- <Tab IsCard="true">
+<div class="page-user">
+	<Tab IsCard="true">
     <TabItem Text="操作台">
-        <Table TItem="Foo" IsPagination="true" PageItemsSource="PageItemsSource" class="table-demo"
-                IsStriped="true" IsBordered="true" ShowSkeleton="true" IsMultipleSelect="true"
-                ShowToolbar="true" ShowSearch="true" ShowExtendButtons="true"
-                AutoGenerateColumns="true" EditMode="EditMode.Popup">
+            <Table TItem="RosStatus" Items="@RosLst" IsStriped="true">
             <TableColumns>
-                <TableColumn @bind-Field="@context.Hobby" Items="GetHobbys(context)" />
+                <TableColumn @bind-Field="@context.RosID" Width="180" />
+                <TableColumn @bind-Field="@context.RosName" />
+                <TableColumn @bind-Field="@context.RosTypeName" />
             </TableColumns>
         </Table>
     </TabItem>
     <TabItem Text="操作台类型">
-        <Table TItem="Foo" IsPagination="true" PageItemsSource="PageItemsSource" class="table-demo"
-                IsStriped="true" IsBordered="true" ShowSkeleton="true" IsMultipleSelect="true"
-                ShowToolbar="true" ShowSearch="true" ShowExtendButtons="true"
-                AutoGenerateColumns="true" EditMode="EditMode.Popup">
+        <Table TItem="RosType" IsPagination="false" Items="@RosTypeLst"  IsStriped="true" >
             <TableColumns>
-                <TableColumn @bind-Field="@context.Hobby" Items="GetHobbys(context)" />
+                <TableColumn @bind-Field="@context.RosTypeId"/>
+                <TableColumn @bind-Field="@context.RosTypeName"/>
             </TableColumns>
         </Table>
     </TabItem>
  </Tab>
+</div>
+ 
 

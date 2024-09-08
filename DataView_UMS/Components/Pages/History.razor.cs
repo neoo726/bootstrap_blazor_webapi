@@ -1,5 +1,7 @@
 ﻿using BootstrapBlazor.Components;
 using DataView_UMS.Data;
+using DataView_UMS.Models.HttpModels;
+using DataView_UMS.Services;
 using Microsoft.AspNetCore.Components;
 using Microsoft.Extensions.Localization;
 
@@ -13,17 +15,19 @@ namespace DataView_UMS.Components.Pages
     /// </summary>
     public partial class History : ComponentBase
     {
-        [Inject]
-        [NotNull]
-        private IStringLocalizer<Foo>? Localizer { get; set; }
+        private List<UserLog> UserLogLst { get; set; }
 
-        private readonly ConcurrentDictionary<Foo, IEnumerable<SelectedItem>> _cache = new();
+        protected override void OnInitialized()
+        {
+            base.OnInitialized();
 
-        private IEnumerable<SelectedItem> GetHobbys(Foo item) => _cache.GetOrAdd(item, f => Foo.GenerateHobbys(Localizer));
+        }
 
-        /// <summary>
-        /// 
-        /// </summary>
-        private static IEnumerable<int> PageItemsSource => new int[] { 20, 40 };
+        protected override async Task OnInitializedAsync()
+        {
+            base.OnInitializedAsync();
+            UserLogLst = await UserService.GetUserLogs();
+            //await SubscribeToDataUpdatesAsync();
+        }
     }
 }

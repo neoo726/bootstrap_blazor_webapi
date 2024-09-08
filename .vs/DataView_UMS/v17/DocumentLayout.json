@@ -1,50 +1,134 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\",
+  "WorkspaceRootPath": "D:\\Github\\bootstrap_blazor_webapi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|c:\\users\\gaojiang\\source\\repos\\dataview_ums\\dataview_ums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|solutionrelative:dataview_ums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|d:\\github\\bootstrap_blazor_webapi\\dataview_ums\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|solutionrelative:dataview_ums\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|c:\\users\\gaojiang\\source\\repos\\dataview_ums\\dataview_ums\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|solutionrelative:dataview_ums\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|d:\\github\\bootstrap_blazor_webapi\\dataview_ums\\components\\pages\\history.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|solutionrelative:dataview_ums\\components\\pages\\history.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|c:\\users\\gaojiang\\source\\repos\\dataview_ums\\dataview_ums\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|solutionrelative:dataview_ums\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|d:\\github\\bootstrap_blazor_webapi\\dataview_ums\\components\\pages\\history.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|solutionrelative:dataview_ums\\components\\pages\\history.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|c:\\users\\gaojiang\\source\\repos\\dataview_ums\\dataview_ums\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|solutionrelative:dataview_ums\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|d:\\github\\bootstrap_blazor_webapi\\dataview_ums\\components\\pages\\ros.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|solutionrelative:dataview_ums\\components\\pages\\ros.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|c:\\users\\gaojiang\\source\\repos\\dataview_ums\\dataview_ums\\data\\customauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|solutionrelative:dataview_ums\\data\\customauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|d:\\github\\bootstrap_blazor_webapi\\dataview_ums\\models\\httpmodels\\rosstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|solutionrelative:dataview_ums\\models\\httpmodels\\rosstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|c:\\users\\gaojiang\\source\\repos\\dataview_ums\\dataview_ums\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|solutionrelative:dataview_ums\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|d:\\github\\bootstrap_blazor_webapi\\dataview_ums\\services\\rosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|solutionrelative:dataview_ums\\services\\rosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|c:\\users\\gaojiang\\source\\repos\\dataview_ums\\dataview_ums\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|d:\\github\\bootstrap_blazor_webapi\\dataview_ums\\components\\pages\\ros.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|solutionrelative:dataview_ums\\components\\pages\\ros.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|d:\\github\\bootstrap_blazor_webapi\\dataview_ums\\models\\dbmodels\\user_log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|solutionrelative:dataview_ums\\models\\dbmodels\\user_log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|d:\\github\\bootstrap_blazor_webapi\\dataview_ums\\components\\pages\\users.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|solutionrelative:dataview_ums\\components\\pages\\users.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|d:\\github\\bootstrap_blazor_webapi\\dataview_ums\\components\\pages\\users.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|solutionrelative:dataview_ums\\components\\pages\\users.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|d:\\github\\bootstrap_blazor_webapi\\dataview_ums\\models\\httpmodels\\configrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|solutionrelative:dataview_ums\\models\\httpmodels\\configrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|d:\\github\\bootstrap_blazor_webapi\\dataview_ums\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|solutionrelative:dataview_ums\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|d:\\github\\bootstrap_blazor_webapi\\dataview_ums\\data\\ros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|solutionrelative:dataview_ums\\data\\ros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|d:\\github\\bootstrap_blazor_webapi\\dataview_ums\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|solutionrelative:dataview_ums\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|c:\\users\\gaojiang\\source\\repos\\dataview_ums\\dataview_ums\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|solutionrelative:dataview_ums\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|d:\\github\\bootstrap_blazor_webapi\\dataview_ums\\data\\foo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|solutionrelative:dataview_ums\\data\\foo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|c:\\users\\gaojiang\\source\\repos\\dataview_ums\\dataview_ums\\components\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|solutionrelative:dataview_ums\\components\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|d:\\github\\bootstrap_blazor_webapi\\dataview_ums\\components\\pages\\index.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|solutionrelative:dataview_ums\\components\\pages\\index.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|c:\\users\\gaojiang\\source\\repos\\dataview_ums\\dataview_ums\\components\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|d:\\github\\bootstrap_blazor_webapi\\dataview_ums\\components\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|solutionrelative:dataview_ums\\components\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|c:\\users\\gaojiang\\source\\repos\\dataview_ums\\dataview_ums\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|solutionrelative:dataview_ums\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|d:\\github\\bootstrap_blazor_webapi\\dataview_ums\\utlis\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|solutionrelative:dataview_ums\\utlis\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|d:\\github\\bootstrap_blazor_webapi\\dataview_ums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|solutionrelative:dataview_ums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|d:\\github\\bootstrap_blazor_webapi\\dataview_ums\\components\\shared\\mainlayout.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|solutionrelative:dataview_ums\\components\\shared\\mainlayout.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|d:\\github\\bootstrap_blazor_webapi\\dataview_ums\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|solutionrelative:dataview_ums\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|d:\\github\\bootstrap_blazor_webapi\\dataview_ums\\components\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|solutionrelative:dataview_ums\\components\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|d:\\github\\bootstrap_blazor_webapi\\dataview_ums\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|solutionrelative:dataview_ums\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|d:\\github\\bootstrap_blazor_webapi\\dataview_ums\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|solutionrelative:dataview_ums\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|d:\\github\\bootstrap_blazor_webapi\\dataview_ums\\models\\dbmodels\\crane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|solutionrelative:dataview_ums\\models\\dbmodels\\crane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|d:\\github\\bootstrap_blazor_webapi\\dataview_ums\\models\\dbmodels\\bind_log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|solutionrelative:dataview_ums\\models\\dbmodels\\bind_log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|d:\\github\\bootstrap_blazor_webapi\\dataview_ums\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|solutionrelative:dataview_ums\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|d:\\github\\bootstrap_blazor_webapi\\dataview_ums\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|solutionrelative:dataview_ums\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|d:\\github\\bootstrap_blazor_webapi\\dataview_ums\\dataview_ums.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|solutionrelative:dataview_ums\\dataview_ums.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|d:\\github\\bootstrap_blazor_webapi\\dataview_ums\\properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|solutionrelative:dataview_ums\\properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|d:\\github\\bootstrap_blazor_webapi\\dataview_ums\\data\\customauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|solutionrelative:dataview_ums\\data\\customauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|d:\\github\\bootstrap_blazor_webapi\\dataview_ums\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA8164C0-E733-475C-BC2B-D5F151795871}|DataView_UMS\\DataView_UMS.csproj|solutionrelative:dataview_ums\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +138,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,50 +146,405 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "App.razor",
-              "DocumentMoniker": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\Components\\App.razor",
-              "RelativeDocumentMoniker": "DataView_UMS\\Components\\App.razor",
-              "ToolTip": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\Components\\App.razor",
-              "RelativeToolTip": "DataView_UMS\\Components\\App.razor",
-              "ViewState": "AQIAABIAAAAAAAAAAADwvxEAAAARAAAA",
+              "DocumentIndex": 1,
+              "Title": "History.razor",
+              "DocumentMoniker": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Components\\Pages\\History.razor",
+              "RelativeDocumentMoniker": "DataView_UMS\\Components\\Pages\\History.razor",
+              "ToolTip": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Components\\Pages\\History.razor",
+              "RelativeToolTip": "DataView_UMS\\Components\\Pages\\History.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-08T04:49:39.339Z",
+              "WhenOpened": "2024-09-08T10:56:29.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "user_log.cs",
+              "DocumentMoniker": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Models\\DbModels\\user_log.cs",
+              "RelativeDocumentMoniker": "DataView_UMS\\Models\\DbModels\\user_log.cs",
+              "ToolTip": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Models\\DbModels\\user_log.cs",
+              "RelativeToolTip": "DataView_UMS\\Models\\DbModels\\user_log.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T10:52:10.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "DataView_UMS\\Services\\UserService.cs",
+              "ToolTip": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Services\\UserService.cs",
+              "RelativeToolTip": "DataView_UMS\\Services\\UserService.cs",
+              "ViewState": "AQIAALUAAAAAAAAAAAAYwLkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T09:20:46.5Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "_Imports.razor",
-              "DocumentMoniker": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\Components\\_Imports.razor",
-              "RelativeDocumentMoniker": "DataView_UMS\\Components\\_Imports.razor",
-              "ToolTip": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\Components\\_Imports.razor",
-              "RelativeToolTip": "DataView_UMS\\Components\\_Imports.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Title": "RosService.cs",
+              "DocumentMoniker": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Services\\RosService.cs",
+              "RelativeDocumentMoniker": "DataView_UMS\\Services\\RosService.cs",
+              "ToolTip": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Services\\RosService.cs",
+              "RelativeToolTip": "DataView_UMS\\Services\\RosService.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAADwv4EAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T07:58:51.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ros.razor",
+              "DocumentMoniker": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Components\\Pages\\Ros.razor",
+              "RelativeDocumentMoniker": "DataView_UMS\\Components\\Pages\\Ros.razor",
+              "ToolTip": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Components\\Pages\\Ros.razor",
+              "RelativeToolTip": "DataView_UMS\\Components\\Pages\\Ros.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-08T04:52:04.679Z",
+              "WhenOpened": "2024-09-08T07:59:59.089Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "History.razor.cs",
+              "DocumentMoniker": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Components\\Pages\\History.razor.cs",
+              "RelativeDocumentMoniker": "DataView_UMS\\Components\\Pages\\History.razor.cs",
+              "ToolTip": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Components\\Pages\\History.razor.cs",
+              "RelativeToolTip": "DataView_UMS\\Components\\Pages\\History.razor.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T08:08:44.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ros.razor.cs",
+              "DocumentMoniker": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Components\\Pages\\Ros.razor.cs",
+              "RelativeDocumentMoniker": "DataView_UMS\\Components\\Pages\\Ros.razor.cs",
+              "ToolTip": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Components\\Pages\\Ros.razor.cs",
+              "RelativeToolTip": "DataView_UMS\\Components\\Pages\\Ros.razor.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA2wCoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T07:59:54.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RosStatus.cs",
+              "DocumentMoniker": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Models\\HttpModels\\RosStatus.cs",
+              "RelativeDocumentMoniker": "DataView_UMS\\Models\\HttpModels\\RosStatus.cs",
+              "ToolTip": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Models\\HttpModels\\RosStatus.cs",
+              "RelativeToolTip": "DataView_UMS\\Models\\HttpModels\\RosStatus.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAYwEEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T08:56:17.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainLayout.razor.cs",
+              "DocumentMoniker": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Components\\Shared\\MainLayout.razor.cs",
+              "RelativeDocumentMoniker": "DataView_UMS\\Components\\Shared\\MainLayout.razor.cs",
+              "ToolTip": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Components\\Shared\\MainLayout.razor.cs",
+              "RelativeToolTip": "DataView_UMS\\Components\\Shared\\MainLayout.razor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T07:51:40.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Foo.cs",
+              "DocumentMoniker": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Data\\Foo.cs",
+              "RelativeDocumentMoniker": "DataView_UMS\\Data\\Foo.cs",
+              "ToolTip": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Data\\Foo.cs",
+              "RelativeToolTip": "DataView_UMS\\Data\\Foo.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAUwB0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T08:37:51.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "DataView_UMS\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "DataView_UMS\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T04:52:11.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Users.razor",
+              "DocumentMoniker": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Components\\Pages\\Users.razor",
+              "RelativeDocumentMoniker": "DataView_UMS\\Components\\Pages\\Users.razor",
+              "ToolTip": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Components\\Pages\\Users.razor",
+              "RelativeToolTip": "DataView_UMS\\Components\\Pages\\Users.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T09:12:11.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Users.razor.cs",
+              "DocumentMoniker": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Components\\Pages\\Users.razor.cs",
+              "RelativeDocumentMoniker": "DataView_UMS\\Components\\Pages\\Users.razor.cs",
+              "ToolTip": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Components\\Pages\\Users.razor.cs",
+              "RelativeToolTip": "DataView_UMS\\Components\\Pages\\Users.razor.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T09:13:08.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConfigRequest.cs",
+              "DocumentMoniker": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Models\\HttpModels\\ConfigRequest.cs",
+              "RelativeDocumentMoniker": "DataView_UMS\\Models\\HttpModels\\ConfigRequest.cs",
+              "ToolTip": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Models\\HttpModels\\ConfigRequest.cs",
+              "RelativeToolTip": "DataView_UMS\\Models\\HttpModels\\ConfigRequest.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAUwCYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T09:14:18.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.razor.cs",
+              "DocumentMoniker": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Components\\Pages\\Index.razor.cs",
+              "RelativeDocumentMoniker": "DataView_UMS\\Components\\Pages\\Index.razor.cs",
+              "ToolTip": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Components\\Pages\\Index.razor.cs",
+              "RelativeToolTip": "DataView_UMS\\Components\\Pages\\Index.razor.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAQwDQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T08:17:10.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ros.cs",
+              "DocumentMoniker": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Data\\Ros.cs",
+              "RelativeDocumentMoniker": "DataView_UMS\\Data\\Ros.cs",
+              "ToolTip": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Data\\Ros.cs",
+              "RelativeToolTip": "DataView_UMS\\Data\\Ros.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAmwDEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T08:40:59.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DbHelper.cs",
+              "DocumentMoniker": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Utlis\\DbHelper.cs",
+              "RelativeDocumentMoniker": "DataView_UMS\\Utlis\\DbHelper.cs",
+              "ToolTip": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Utlis\\DbHelper.cs",
+              "RelativeToolTip": "DataView_UMS\\Utlis\\DbHelper.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAASwBIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T07:42:25.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.razor",
+              "DocumentMoniker": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Components\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "DataView_UMS\\Components\\Pages\\Login.razor",
+              "ToolTip": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Components\\Pages\\Login.razor",
+              "RelativeToolTip": "DataView_UMS\\Components\\Pages\\Login.razor",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAA8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T04:52:32.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Program.cs",
+              "RelativeDocumentMoniker": "DataView_UMS\\Program.cs",
+              "ToolTip": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Program.cs",
+              "RelativeToolTip": "DataView_UMS\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T04:49:25.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.razor",
+              "DocumentMoniker": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Components\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "DataView_UMS\\Components\\Pages\\Index.razor",
+              "ToolTip": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Components\\Pages\\Index.razor",
+              "RelativeToolTip": "DataView_UMS\\Components\\Pages\\Index.razor",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAYAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T04:53:56.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\appsettings.json",
+              "RelativeDocumentMoniker": "DataView_UMS\\appsettings.json",
+              "ToolTip": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\appsettings.json",
+              "RelativeToolTip": "DataView_UMS\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-08T06:57:19.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Components\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "DataView_UMS\\Components\\Shared\\MainLayout.razor",
+              "ToolTip": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Components\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "DataView_UMS\\Components\\Shared\\MainLayout.razor",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAAEAAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T05:00:38.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "crane.cs",
+              "DocumentMoniker": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Models\\DbModels\\crane.cs",
+              "RelativeDocumentMoniker": "DataView_UMS\\Models\\DbModels\\crane.cs",
+              "ToolTip": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Models\\DbModels\\crane.cs",
+              "RelativeToolTip": "DataView_UMS\\Models\\DbModels\\crane.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T07:51:22.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "bind_log.cs",
+              "DocumentMoniker": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Models\\DbModels\\bind_log.cs",
+              "RelativeDocumentMoniker": "DataView_UMS\\Models\\DbModels\\bind_log.cs",
+              "ToolTip": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Models\\DbModels\\bind_log.cs",
+              "RelativeToolTip": "DataView_UMS\\Models\\DbModels\\bind_log.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAD4vyoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T07:51:19.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "DataView_UMS\\appsettings.Development.json",
+              "ToolTip": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\appsettings.Development.json",
+              "RelativeToolTip": "DataView_UMS\\appsettings.Development.json",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-08T07:51:17.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DataView_UMS\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DataView_UMS\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-08T04:53:10.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "Routes.razor",
-              "DocumentMoniker": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\Components\\Routes.razor",
+              "DocumentMoniker": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Components\\Routes.razor",
               "RelativeDocumentMoniker": "DataView_UMS\\Components\\Routes.razor",
-              "ToolTip": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\Components\\Routes.razor",
+              "ToolTip": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Components\\Routes.razor",
               "RelativeToolTip": "DataView_UMS\\Components\\Routes.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-08T04:50:01.23Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 22,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Components\\App.razor",
+              "RelativeDocumentMoniker": "DataView_UMS\\Components\\App.razor",
+              "ToolTip": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Components\\App.razor",
+              "RelativeToolTip": "DataView_UMS\\Components\\App.razor",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T04:49:39.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DataView_UMS",
+              "DocumentMoniker": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\DataView_UMS.csproj",
+              "RelativeDocumentMoniker": "DataView_UMS\\DataView_UMS.csproj",
+              "ToolTip": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\DataView_UMS.csproj",
+              "RelativeToolTip": "DataView_UMS\\DataView_UMS.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-08T07:35:51.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FolderProfile.pubxml",
+              "DocumentMoniker": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeDocumentMoniker": "DataView_UMS\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "ToolTip": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeToolTip": "DataView_UMS\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-09-08T07:36:02.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "CustomAuthenticationStateProvider.cs",
-              "DocumentMoniker": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\Data\\CustomAuthenticationStateProvider.cs",
+              "DocumentMoniker": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Data\\CustomAuthenticationStateProvider.cs",
               "RelativeDocumentMoniker": "DataView_UMS\\Data\\CustomAuthenticationStateProvider.cs",
-              "ToolTip": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\Data\\CustomAuthenticationStateProvider.cs",
+              "ToolTip": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Data\\CustomAuthenticationStateProvider.cs",
               "RelativeToolTip": "DataView_UMS\\Data\\CustomAuthenticationStateProvider.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAYwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -114,93 +553,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\Program.cs",
-              "RelativeDocumentMoniker": "DataView_UMS\\Program.cs",
-              "ToolTip": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\Program.cs",
-              "RelativeToolTip": "DataView_UMS\\Program.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAACoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T04:49:25.564Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "DataView_UMS\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\Properties\\launchSettings.json",
-              "RelativeToolTip": "DataView_UMS\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-08T04:53:10.644Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Login.razor",
-              "DocumentMoniker": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\Components\\Pages\\Login.razor",
-              "RelativeDocumentMoniker": "DataView_UMS\\Components\\Pages\\Login.razor",
-              "ToolTip": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\Components\\Pages\\Login.razor",
-              "RelativeToolTip": "DataView_UMS\\Components\\Pages\\Login.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-08T04:52:32.34Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "DataView_UMS\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "DataView_UMS\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T04:52:11.132Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\appsettings.json",
-              "RelativeDocumentMoniker": "DataView_UMS\\appsettings.json",
-              "ToolTip": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\appsettings.json",
-              "RelativeToolTip": "DataView_UMS\\appsettings.json",
+              "DocumentIndex": 31,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "DataView_UMS\\Components\\_Imports.razor",
+              "ToolTip": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\Components\\_Imports.razor",
+              "RelativeToolTip": "DataView_UMS\\Components\\_Imports.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-08T06:57:19.261Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\Components\\Shared\\MainLayout.razor",
-              "RelativeDocumentMoniker": "DataView_UMS\\Components\\Shared\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\Components\\Shared\\MainLayout.razor",
-              "RelativeToolTip": "DataView_UMS\\Components\\Shared\\MainLayout.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-08T05:00:38.039Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.razor",
-              "DocumentMoniker": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\Components\\Pages\\Index.razor",
-              "RelativeDocumentMoniker": "DataView_UMS\\Components\\Pages\\Index.razor",
-              "ToolTip": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\Components\\Pages\\Index.razor",
-              "RelativeToolTip": "DataView_UMS\\Components\\Pages\\Index.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-08T04:53:56.8Z",
+              "WhenOpened": "2024-09-08T04:52:04.679Z",
               "EditorCaption": ""
             }
           ]

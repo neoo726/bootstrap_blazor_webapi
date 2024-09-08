@@ -27,7 +27,7 @@ namespace DataView_UMS.Models
            /// Default:
            /// Nullable:False
            /// </summary>           
-           public int ros_id {get;set;}
+        public int ros_id {get;set;}
         public int ros_type_id { get; set; }
         /// <summary>
         /// Desc:
@@ -56,8 +56,8 @@ namespace DataView_UMS.Models
            /// Nullable:True
            /// </summary>           
            public byte login_type {get;set;}
-            public byte logout_type { get; set; }
-             public  DateTime login_time { get; set; }
+           public byte logout_type { get; set; }
+           public  DateTime login_time { get; set; }
            public DateTime? logout_time { get; set; }
     }
 }

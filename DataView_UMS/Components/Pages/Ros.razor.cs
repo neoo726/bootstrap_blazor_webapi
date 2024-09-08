@@ -1,5 +1,7 @@
 ﻿using BootstrapBlazor.Components;
 using DataView_UMS.Data;
+using DataView_UMS.Models.HttpModels;
+using DataView_UMS.Services;
 using Microsoft.AspNetCore.Components;
 using Microsoft.Extensions.Localization;
 
@@ -13,17 +15,31 @@ namespace DataView_UMS.Components.Pages
     /// </summary>
     public partial class Ros : ComponentBase
     {
-        [Inject]
-        [NotNull]
-        private IStringLocalizer<Foo>? Localizer { get; set; }
+        
+        private List<RosStatus> RosLst { get; set; }
+        private List<RosType> RosTypeLst { get; set; }
+        private readonly ConcurrentDictionary<Ros, IEnumerable<SelectedItem>> _cache = new();
 
-        private readonly ConcurrentDictionary<Foo, IEnumerable<SelectedItem>> _cache = new();
-
-        private IEnumerable<SelectedItem> GetHobbys(Foo item) => _cache.GetOrAdd(item, f => Foo.GenerateHobbys(Localizer));
 
         /// <summary>
         /// 
         /// </summary>
         private static IEnumerable<int> PageItemsSource => new int[] { 20, 40 };
+        /// <summary>
+        /// OnInitialized 方法
+        /// </summary>
+        protected override void OnInitialized()
+        {
+            base.OnInitialized();
+
+        }
+
+        protected override async Task OnInitializedAsync()
+        {
+            base.OnInitializedAsync();
+            RosLst = await RosService.GetAllRosDefinition();
+            RosTypeLst = await RosService.GetAllRosTypeDefinition();
+            //await SubscribeToDataUpdatesAsync();
+        }
     }
 }

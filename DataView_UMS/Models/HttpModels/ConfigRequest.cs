@@ -1,6 +1,7 @@
 ﻿using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -19,14 +20,44 @@ namespace DataView_UMS.Models.HttpModels
     }
     public class UserInfo
     {
+        [Display(Name = "用户Id")]
+        [JsonProperty("userId")]
+        public long UserId { get; set; }
+        [Display(Name = "用户名")]
         [JsonProperty("userName")]
         public string UserName { get; set; }
+
+        [Display(Name = "昵称")]
         [JsonProperty("nickName")]
-        public string NickName { get; set; } 
+        public string NickName { get; set; }
+
+        [Display(Name = "密码")]
         [JsonProperty("password")]
         public string Password { get; set; }
-        [JsonProperty("enable")]
-        public bool Enable { get; set; } = true;
+        [Display(Name = "角色Id")]
+        [JsonProperty("roleId")]
+        public int RoleId { get; set; }
+        [Display(Name = "角色名称")]
+        [JsonProperty("roleName")]
+        public string RoleName { get; set; }
+        //[Display(Name = "类型ID")]
+        //[JsonProperty("enable")]
+        //public bool Enable { get; set; } = true;
+    }
+    public class RoleInfo
+    {
+        [Display(Name = "角色ID")]
+        [JsonProperty("roleId")]
+        public long RoleId { get; set; }
+        [Display(Name = "角色名称")]
+        [JsonProperty("roleName")]
+        public string RoleName { get; set; }
+
+        
+
+        //[Display(Name = "类型ID")]
+        //[JsonProperty("enable")]
+        //public bool Enable { get; set; } = true;
     }
     internal class CommInfo
     {

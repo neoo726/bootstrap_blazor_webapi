@@ -80,5 +80,70 @@ namespace DataView_UMS.Services
             
             return RosResult.Success<List<RosStatus>>(rosStatusLst);
         }
+        public static async Task<List<RosStatus>> GetAllRosStatusAsync()
+        {
+            if (DbHelper.GetDbInstance() == null)
+            {
+                throw new Exception("DbHelper.GetDbInstance() is null");
+            }
+            var rosStatusLst = await Task.Run(() =>
+            {
+                var rosLst = DbHelper.GetDbInstance().Queryable<Models.ros>()
+                .LeftJoin<Models.user>((r, u) => r.user_id == u.user_id)
+                .Select((r, u) => new RosStatus
+                {
+                    RosID = r.ros_id,
+                    RosName = r.ros_name,
+                    UserName = u.user_name,
+                    NickName = u.nick_name,
+                    UserId = u.user_id,
+                    LoginTime = r.login_time,
+
+                }).ToList();
+                return rosLst;
+            });
+            return rosStatusLst;
+        }
+        public static async Task<List<RosStatus>> GetAllRosDefinition()
+        {
+            if (DbHelper.GetDbInstance() == null)
+            {
+                throw new Exception("DbHelper.GetDbInstance() is null");
+            }
+            var rosStatusLst = await Task.Run(() =>
+            {
+                var rosLst = DbHelper.GetDbInstance().Queryable<Models.ros>()
+                .LeftJoin<Models.ros_type>((r, u) => r.ros_type_id == u.ros_type_id)
+                .Select((r, u) => new RosStatus
+                {
+                    RosID = r.ros_id,
+                    RosName = r.ros_name,
+                    RosTypeId=r.ros_type_id,
+                    RosTypeName=u.ros_type_name,
+
+                }).ToList();
+                return rosLst;
+            });
+            return rosStatusLst;
+        }
+        public static async Task<List<RosType>> GetAllRosTypeDefinition()
+        {
+            if (DbHelper.GetDbInstance() == null)
+            {
+                throw new Exception("DbHelper.GetDbInstance() is null");
+            }
+            var rosTypeLst = await Task.Run(() =>
+            {
+                var typeLst = DbHelper.GetDbInstance().Queryable<Models.ros_type>()
+                .Select(r => new RosType
+                {
+                    RosTypeId = r.ros_type_id,
+                    RosTypeName = r.ros_type_name,
+
+                }).ToList();
+                return typeLst;
+            });
+            return rosTypeLst;
+        }
     }
 }

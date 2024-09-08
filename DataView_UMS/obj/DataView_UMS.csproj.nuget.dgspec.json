@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\DataView_UMS.csproj": {}
+    "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\DataView_UMS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\DataView_UMS.csproj": {
-      "version": "1.0.0",
+    "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\DataView_UMS.csproj": {
+      "version": "3.2.0.1",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\DataView_UMS.csproj",
+        "projectUniqueName": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\DataView_UMS.csproj",
         "projectName": "DataView_UMS",
-        "projectPath": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\DataView_UMS.csproj",
+        "projectPath": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\DataView_UMS.csproj",
         "packagesPath": "C:\\Users\\Gaojiang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\obj\\",
+        "outputPath": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

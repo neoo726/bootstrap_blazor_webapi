@@ -10,6 +10,7 @@ using DataView_UMS.Enums;
 using DataView_UMS.Models;
 using DataView_UMS.Models.HttpModels;
 using DataView_UMS.Utlis;
+using Kdbndp;
 
 namespace DataView_UMS.Services
 {
@@ -165,5 +166,65 @@ namespace DataView_UMS.Services
             };
             return UserManageResult.Success(userInfo);
         }
+        public static async Task<List<UserInfo>> GetAllUser()
+        {
+            var userLst = await Task.Run(() =>
+            {
+                var userresult = DbHelper.GetDbInstance().Queryable<Models.user>()
+                .LeftJoin<Models.role>((u,r)=>u.user_role==r.role_id)
+                .Select((u,r) => new UserInfo
+                {
+                    UserId = u.user_id,
+                    UserName = u.user_name,
+                    NickName = u.nick_name,
+                    Password = u.user_pwd,
+                    RoleId=r.role_id,
+                    RoleName=r.role_name,
+                })
+                .ToList();
+                return userresult;
+            });
+
+            return userLst;
+        }
+        public static async Task<List<RoleInfo>> GetAllRole()
+        {
+            var roleLst = await Task.Run(() =>
+            {
+                var roleLst = DbHelper.GetDbInstance().Queryable<Models.role>()
+                .Select(c => new RoleInfo
+                {
+                    RoleId=c.role_id,
+                    RoleName=c.role_name
+                })
+                .ToList();
+                return roleLst;
+            });
+
+            return roleLst;
+        }
+        public static async Task<List<UserLog>> GetUserLogs()
+        {
+            var userLst = await Task.Run(() =>
+            {
+                var userresult = DbHelper.GetDbInstance().Queryable<user_log>()
+                .LeftJoin<Models.user>((l, u) => l.user_id == u.user_id)
+                .LeftJoin<Models.ros>((l,u,r) => l.ros_id==r.ros_id&&l.ros_type_id==r.ros_type_id)
+                .Select((l,u,r) => new UserLog
+                {
+                    UserName=u.user_name,
+                    RosName=r.ros_name,
+                    LogId=l.id,
+                    LoginTime=l.login_time.ToString(),
+                    LogoutTime= l.logout_time==null?string.Empty:l.logout_time.ToString(),
+                    LoginType=l.login_type.ToString(),
+                    LogoutType=l.logout_type.ToString(),
+                })
+                .ToList();
+                return userresult;
+            });
+            return userLst;
+        }
     }
+    
 }

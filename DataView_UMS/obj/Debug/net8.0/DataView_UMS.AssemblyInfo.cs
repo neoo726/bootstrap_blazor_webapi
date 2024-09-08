@@ -13,11 +13,11 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("DataView_UMS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("3.2.0.1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("3.2.0.1+30dedcd8180e5cef4c9331fbf1f1f4a94d11e21f")]
 [assembly: System.Reflection.AssemblyProductAttribute("DataView_UMS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DataView_UMS")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyVersionAttribute("3.2.0.1")]
 
 // 由 MSBuild WriteCodeFragment 类生成。
 

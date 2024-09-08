@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Github\bootstrap_blazor_webapi\DataView_UMS\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2024-09-08T07:38:50.0669038Z||;False|2024-09-08T15:38:42.5702996+08:00||;True|2024-09-08T15:34:32.3492666+08:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

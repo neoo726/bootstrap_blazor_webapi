@@ -9,67 +9,67 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DataView_UMS
 build_property.RootNamespace = DataView_UMS
-build_property.ProjectDir = C:\Users\Gaojiang\source\repos\DataView_UMS\DataView_UMS\
+build_property.ProjectDir = D:\Github\bootstrap_blazor_webapi\DataView_UMS\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Gaojiang\source\repos\DataView_UMS\DataView_UMS
+build_property.MSBuildProjectDirectory = D:\Github\bootstrap_blazor_webapi\DataView_UMS
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Gaojiang/source/repos/DataView_UMS/DataView_UMS/Components/App.razor]
+[D:/Github/bootstrap_blazor_webapi/DataView_UMS/Components/App.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gaojiang/source/repos/DataView_UMS/DataView_UMS/Components/Pages/Error.razor]
+[D:/Github/bootstrap_blazor_webapi/DataView_UMS/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gaojiang/source/repos/DataView_UMS/DataView_UMS/Components/Pages/History.razor]
+[D:/Github/bootstrap_blazor_webapi/DataView_UMS/Components/Pages/History.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIaXN0b3J5LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gaojiang/source/repos/DataView_UMS/DataView_UMS/Components/Pages/Index.razor]
+[D:/Github/bootstrap_blazor_webapi/DataView_UMS/Components/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xJbmRleC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gaojiang/source/repos/DataView_UMS/DataView_UMS/Components/Pages/Login.razor]
+[D:/Github/bootstrap_blazor_webapi/DataView_UMS/Components/Pages/Login.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMb2dpbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gaojiang/source/repos/DataView_UMS/DataView_UMS/Components/Pages/Ros.razor]
+[D:/Github/bootstrap_blazor_webapi/DataView_UMS/Components/Pages/Ros.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xSb3MucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gaojiang/source/repos/DataView_UMS/DataView_UMS/Components/Pages/Setting.razor]
+[D:/Github/bootstrap_blazor_webapi/DataView_UMS/Components/Pages/Setting.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTZXR0aW5nLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gaojiang/source/repos/DataView_UMS/DataView_UMS/Components/Routes.razor]
+[D:/Github/bootstrap_blazor_webapi/DataView_UMS/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gaojiang/source/repos/DataView_UMS/DataView_UMS/Components/Shared/SurveyPrompt.razor]
+[D:/Github/bootstrap_blazor_webapi/DataView_UMS/Components/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTaGFyZWRcU3VydmV5UHJvbXB0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gaojiang/source/repos/DataView_UMS/DataView_UMS/Components/Shared/Widget.razor]
+[D:/Github/bootstrap_blazor_webapi/DataView_UMS/Components/Shared/Widget.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTaGFyZWRcV2lkZ2V0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gaojiang/source/repos/DataView_UMS/DataView_UMS/Components/_Imports.razor]
+[D:/Github/bootstrap_blazor_webapi/DataView_UMS/Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Gaojiang/source/repos/DataView_UMS/DataView_UMS/Components/Pages/Users.razor]
+[D:/Github/bootstrap_blazor_webapi/DataView_UMS/Components/Pages/Users.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xVc2Vycy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-1emnqkobqj
 
-[C:/Users/Gaojiang/source/repos/DataView_UMS/DataView_UMS/Components/Shared/LoginLayout.razor]
+[D:/Github/bootstrap_blazor_webapi/DataView_UMS/Components/Shared/LoginLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTaGFyZWRcTG9naW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-v70qkwh01h
 
-[C:/Users/Gaojiang/source/repos/DataView_UMS/DataView_UMS/Components/Shared/MainLayout.razor]
+[D:/Github/bootstrap_blazor_webapi/DataView_UMS/Components/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTaGFyZWRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-hyv2378urs

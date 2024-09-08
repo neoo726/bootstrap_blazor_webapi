@@ -1,10 +1,13 @@
-﻿using DataView_UMS.Components;
+﻿using DataView_UMS;
+using DataView_UMS.Components;
 using DataView_UMS.Components.Pages;
 using DataView_UMS.Data;
 using Microsoft.AspNetCore.SignalR;
 using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
+Console.WriteLine("Initialize Database.");
+DbHelper.Init("mysql", "Data Source=127.0.0.1;Initial Catalog=ums;User ID=root;Password=Zpmc@3261;SslMode=none ;");
 
 // Add services to the container.
 Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);

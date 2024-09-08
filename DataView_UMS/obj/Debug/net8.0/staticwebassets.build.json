@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5eT8PVTHDd4AMRoSZcT+H+OKnAEZ/AV6hwiBjDuHETY=",
+  "Hash": "CuRVqUXDaWZrPz7VwiZGcRntn8nxeGHDw2t2SN5IaEU=",
   "Source": "DataView_UMS",
   "BasePath": "_content/DataView_UMS",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "DataView_UMS\\wwwroot",
       "Source": "DataView_UMS",
-      "ContentRoot": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\",
       "BasePath": "_content/DataView_UMS",
       "Pattern": "**"
     }
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "C:\\Users\\Gaojiang\\.nuget\\packages\\bootstrapblazor\\8.9.1\\staticwebassets\\modules\\viewer.js"
     },
     {
-      "Identity": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\obj\\Debug\\net8.0\\scopedcss\\bundle\\DataView_UMS.styles.css",
+      "Identity": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\obj\\Debug\\net8.0\\scopedcss\\bundle\\DataView_UMS.styles.css",
       "SourceId": "DataView_UMS",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/DataView_UMS",
       "RelativePath": "DataView_UMS.styles.css",
       "AssetKind": "All",
@@ -2104,13 +2104,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\obj\\Debug\\net8.0\\scopedcss\\bundle\\DataView_UMS.styles.css"
+      "OriginalItemSpec": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\obj\\Debug\\net8.0\\scopedcss\\bundle\\DataView_UMS.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DataView_UMS.bundle.scp.css",
+      "Identity": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DataView_UMS.bundle.scp.css",
       "SourceId": "DataView_UMS",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/DataView_UMS",
       "RelativePath": "DataView_UMS.bundle.scp.css",
       "AssetKind": "All",
@@ -2123,13 +2123,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DataView_UMS.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DataView_UMS.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\css\\app.css",
+      "Identity": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\css\\app.css",
       "SourceId": "DataView_UMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\",
       "BasePath": "_content/DataView_UMS",
       "RelativePath": "css/app.css",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\css\\app.css"
     },
     {
-      "Identity": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\favicon.ico",
+      "Identity": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\favicon.ico",
       "SourceId": "DataView_UMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\",
       "BasePath": "_content/DataView_UMS",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\favicon.png",
+      "Identity": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\favicon.png",
       "SourceId": "DataView_UMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\",
       "BasePath": "_content/DataView_UMS",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\Argo.png",
+      "Identity": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\images\\Argo.png",
       "SourceId": "DataView_UMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\",
       "BasePath": "_content/DataView_UMS",
       "RelativePath": "images/Argo.png",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Argo.png"
     },
     {
-      "Identity": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\Argo-C.png",
+      "Identity": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\images\\Argo-C.png",
       "SourceId": "DataView_UMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\",
       "BasePath": "_content/DataView_UMS",
       "RelativePath": "images/Argo-C.png",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Argo-C.png"
     },
     {
-      "Identity": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-1.jpg",
+      "Identity": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\images\\avatars\\150-1.jpg",
       "SourceId": "DataView_UMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\",
       "BasePath": "_content/DataView_UMS",
       "RelativePath": "images/avatars/150-1.jpg",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-10.jpg",
+      "Identity": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\images\\avatars\\150-10.jpg",
       "SourceId": "DataView_UMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\",
       "BasePath": "_content/DataView_UMS",
       "RelativePath": "images/avatars/150-10.jpg",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-10.jpg"
     },
     {
-      "Identity": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-11.jpg",
+      "Identity": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\images\\avatars\\150-11.jpg",
       "SourceId": "DataView_UMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\",
       "BasePath": "_content/DataView_UMS",
       "RelativePath": "images/avatars/150-11.jpg",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-11.jpg"
     },
     {
-      "Identity": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-12.jpg",
+      "Identity": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\images\\avatars\\150-12.jpg",
       "SourceId": "DataView_UMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\",
       "BasePath": "_content/DataView_UMS",
       "RelativePath": "images/avatars/150-12.jpg",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-12.jpg"
     },
     {
-      "Identity": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-13.jpg",
+      "Identity": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\images\\avatars\\150-13.jpg",
       "SourceId": "DataView_UMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\",
       "BasePath": "_content/DataView_UMS",
       "RelativePath": "images/avatars/150-13.jpg",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-13.jpg"
     },
     {
-      "Identity": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-14.jpg",
+      "Identity": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\images\\avatars\\150-14.jpg",
       "SourceId": "DataView_UMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\",
       "BasePath": "_content/DataView_UMS",
       "RelativePath": "images/avatars/150-14.jpg",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-14.jpg"
     },
     {
-      "Identity": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-15.jpg",
+      "Identity": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\images\\avatars\\150-15.jpg",
       "SourceId": "DataView_UMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\",
       "BasePath": "_content/DataView_UMS",
       "RelativePath": "images/avatars/150-15.jpg",
       "AssetKind": "All",
@@ -2354,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-15.jpg"
     },
     {
-      "Identity": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-16.jpg",
+      "Identity": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\images\\avatars\\150-16.jpg",
       "SourceId": "DataView_UMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\",
       "BasePath": "_content/DataView_UMS",
       "RelativePath": "images/avatars/150-16.jpg",
       "AssetKind": "All",
@@ -2373,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-16.jpg"
     },
     {
-      "Identity": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-17.jpg",
+      "Identity": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\images\\avatars\\150-17.jpg",
       "SourceId": "DataView_UMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\",
       "BasePath": "_content/DataView_UMS",
       "RelativePath": "images/avatars/150-17.jpg",
       "AssetKind": "All",
@@ -2392,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-17.jpg"
     },
     {
-      "Identity": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-18.jpg",
+      "Identity": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\images\\avatars\\150-18.jpg",
       "SourceId": "DataView_UMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\",
       "BasePath": "_content/DataView_UMS",
       "RelativePath": "images/avatars/150-18.jpg",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-18.jpg"
     },
     {
-      "Identity": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-19.jpg",
+      "Identity": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\images\\avatars\\150-19.jpg",
       "SourceId": "DataView_UMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\",
       "BasePath": "_content/DataView_UMS",
       "RelativePath": "images/avatars/150-19.jpg",
       "AssetKind": "All",
@@ -2430,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-19.jpg"
     },
     {
-      "Identity": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-2.jpg",
+      "Identity": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\images\\avatars\\150-2.jpg",
       "SourceId": "DataView_UMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\",
       "BasePath": "_content/DataView_UMS",
       "RelativePath": "images/avatars/150-2.jpg",
       "AssetKind": "All",
@@ -2449,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-20.jpg",
+      "Identity": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\images\\avatars\\150-20.jpg",
       "SourceId": "DataView_UMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\",
       "BasePath": "_content/DataView_UMS",
       "RelativePath": "images/avatars/150-20.jpg",
       "AssetKind": "All",
@@ -2468,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-20.jpg"
     },
     {
-      "Identity": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-21.jpg",
+      "Identity": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\images\\avatars\\150-21.jpg",
       "SourceId": "DataView_UMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\",
       "BasePath": "_content/DataView_UMS",
       "RelativePath": "images/avatars/150-21.jpg",
       "AssetKind": "All",
@@ -2487,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-21.jpg"
     },
     {
-      "Identity": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-22.jpg",
+      "Identity": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\images\\avatars\\150-22.jpg",
       "SourceId": "DataView_UMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\",
       "BasePath": "_content/DataView_UMS",
       "RelativePath": "images/avatars/150-22.jpg",
       "AssetKind": "All",
@@ -2506,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-22.jpg"
     },
     {
-      "Identity": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-23.jpg",
+      "Identity": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\images\\avatars\\150-23.jpg",
       "SourceId": "DataView_UMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\",
       "BasePath": "_content/DataView_UMS",
       "RelativePath": "images/avatars/150-23.jpg",
       "AssetKind": "All",
@@ -2525,10 +2525,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-23.jpg"
     },
     {
-      "Identity": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-24.jpg",
+      "Identity": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\images\\avatars\\150-24.jpg",
       "SourceId": "DataView_UMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\",
       "BasePath": "_content/DataView_UMS",
       "RelativePath": "images/avatars/150-24.jpg",
       "AssetKind": "All",
@@ -2544,10 +2544,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-24.jpg"
     },
     {
-      "Identity": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-3.jpg",
+      "Identity": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\images\\avatars\\150-3.jpg",
       "SourceId": "DataView_UMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\",
       "BasePath": "_content/DataView_UMS",
       "RelativePath": "images/avatars/150-3.jpg",
       "AssetKind": "All",
@@ -2563,10 +2563,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-4.jpg",
+      "Identity": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\images\\avatars\\150-4.jpg",
       "SourceId": "DataView_UMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\",
       "BasePath": "_content/DataView_UMS",
       "RelativePath": "images/avatars/150-4.jpg",
       "AssetKind": "All",
@@ -2582,10 +2582,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-5.jpg",
+      "Identity": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\images\\avatars\\150-5.jpg",
       "SourceId": "DataView_UMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\",
       "BasePath": "_content/DataView_UMS",
       "RelativePath": "images/avatars/150-5.jpg",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-6.jpg",
+      "Identity": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\images\\avatars\\150-6.jpg",
       "SourceId": "DataView_UMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\",
       "BasePath": "_content/DataView_UMS",
       "RelativePath": "images/avatars/150-6.jpg",
       "AssetKind": "All",
@@ -2620,10 +2620,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-7.jpg",
+      "Identity": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\images\\avatars\\150-7.jpg",
       "SourceId": "DataView_UMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\",
       "BasePath": "_content/DataView_UMS",
       "RelativePath": "images/avatars/150-7.jpg",
       "AssetKind": "All",
@@ -2639,10 +2639,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-7.jpg"
     },
     {
-      "Identity": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-8.jpg",
+      "Identity": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\images\\avatars\\150-8.jpg",
       "SourceId": "DataView_UMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\",
       "BasePath": "_content/DataView_UMS",
       "RelativePath": "images/avatars/150-8.jpg",
       "AssetKind": "All",
@@ -2658,10 +2658,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-8.jpg"
     },
     {
-      "Identity": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-9.jpg",
+      "Identity": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\images\\avatars\\150-9.jpg",
       "SourceId": "DataView_UMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\",
       "BasePath": "_content/DataView_UMS",
       "RelativePath": "images/avatars/150-9.jpg",
       "AssetKind": "All",
@@ -2677,10 +2677,10 @@
       "OriginalItemSpec": "wwwroot\\images\\avatars\\150-9.jpg"
     },
     {
-      "Identity": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\logo.ico",
+      "Identity": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\images\\logo.ico",
       "SourceId": "DataView_UMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\",
       "BasePath": "_content/DataView_UMS",
       "RelativePath": "images/logo.ico",
       "AssetKind": "All",
@@ -2696,10 +2696,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.ico"
     },
     {
-      "Identity": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\logo.png",
+      "Identity": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\images\\logo.png",
       "SourceId": "DataView_UMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\",
       "BasePath": "_content/DataView_UMS",
       "RelativePath": "images/logo.png",
       "AssetKind": "All",
@@ -2715,10 +2715,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\logout.svg",
+      "Identity": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\images\\logout.svg",
       "SourceId": "DataView_UMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\",
       "BasePath": "_content/DataView_UMS",
       "RelativePath": "images/logout.svg",
       "AssetKind": "All",
@@ -2734,10 +2734,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logout.svg"
     },
     {
-      "Identity": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\password.svg",
+      "Identity": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\images\\password.svg",
       "SourceId": "DataView_UMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\",
       "BasePath": "_content/DataView_UMS",
       "RelativePath": "images/password.svg",
       "AssetKind": "All",
@@ -2753,10 +2753,10 @@
       "OriginalItemSpec": "wwwroot\\images\\password.svg"
     },
     {
-      "Identity": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\Ros0.svg",
+      "Identity": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\images\\Ros0.svg",
       "SourceId": "DataView_UMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\",
       "BasePath": "_content/DataView_UMS",
       "RelativePath": "images/Ros0.svg",
       "AssetKind": "All",
@@ -2772,10 +2772,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Ros0.svg"
     },
     {
-      "Identity": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\Ros1.svg",
+      "Identity": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\images\\Ros1.svg",
       "SourceId": "DataView_UMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\",
       "BasePath": "_content/DataView_UMS",
       "RelativePath": "images/Ros1.svg",
       "AssetKind": "All",
@@ -2791,10 +2791,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Ros1.svg"
     },
     {
-      "Identity": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\user (1).svg",
+      "Identity": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\images\\user (1).svg",
       "SourceId": "DataView_UMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\",
       "BasePath": "_content/DataView_UMS",
       "RelativePath": "images/user (1).svg",
       "AssetKind": "All",
@@ -2810,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\images\\user (1).svg"
     },
     {
-      "Identity": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\user.png",
+      "Identity": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\images\\user.png",
       "SourceId": "DataView_UMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\",
       "BasePath": "_content/DataView_UMS",
       "RelativePath": "images/user.png",
       "AssetKind": "All",
@@ -2829,10 +2829,10 @@
       "OriginalItemSpec": "wwwroot\\images\\user.png"
     },
     {
-      "Identity": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\user.svg",
+      "Identity": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\images\\user.svg",
       "SourceId": "DataView_UMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\",
       "BasePath": "_content/DataView_UMS",
       "RelativePath": "images/user.svg",
       "AssetKind": "All",
@@ -2848,10 +2848,10 @@
       "OriginalItemSpec": "wwwroot\\images\\user.svg"
     },
     {
-      "Identity": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\zpmc.png",
+      "Identity": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\images\\zpmc.png",
       "SourceId": "DataView_UMS",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\",
+      "ContentRoot": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\wwwroot\\",
       "BasePath": "_content/DataView_UMS",
       "RelativePath": "images/zpmc.png",
       "AssetKind": "All",

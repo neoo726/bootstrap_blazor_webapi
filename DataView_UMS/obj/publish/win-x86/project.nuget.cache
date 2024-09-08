@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eM8VGZqjXcw=",
+  "dgSpecHash": "mM7RM+ouSKs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\DataView_UMS.csproj",
+  "projectFilePath": "D:\\Github\\bootstrap_blazor_webapi\\DataView_UMS\\DataView_UMS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gaojiang\\.nuget\\packages\\bootstrapblazor\\8.9.1\\bootstrapblazor.8.9.1.nupkg.sha512",
     "C:\\Users\\Gaojiang\\.nuget\\packages\\bootstrapblazor.fontawesome\\8.0.6\\bootstrapblazor.fontawesome.8.0.6.nupkg.sha512",

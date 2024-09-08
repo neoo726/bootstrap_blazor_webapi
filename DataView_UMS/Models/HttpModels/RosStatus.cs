@@ -1,6 +1,7 @@
 ﻿using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -10,10 +11,17 @@ namespace DataView_UMS.Models.HttpModels
 {
     public class RosStatus
     {
+        [Display(Name = "操作台ID")]
         [JsonProperty("rosId")]
         public int RosID { get; set; }
+        [Display(Name = "操作台名称")]
         [JsonProperty("rosName")]
         public string RosName { get; set; }
+        [JsonProperty("rosTypeId")]
+        public int RosTypeId { get; set; }
+        [Display(Name = "操作台类型")]
+        [JsonProperty("rosTypeName")]
+        public string RosTypeName { get; set; }
         [JsonProperty("userId")]
         public long UserId { get; set; }
         [JsonProperty("userName")]
@@ -38,5 +46,47 @@ namespace DataView_UMS.Models.HttpModels
             this.LoginTime = r.login_time;
         }
         public RosStatus() { }
+    }
+    public class RosType
+    {
+        [Display(Name = "类型ID")]
+        [JsonProperty("rosTypeId")]
+        public int RosTypeId { get; set; }
+        [Display(Name = "类型名称")]
+        [JsonProperty("rosTypeName")]
+        public string RosTypeName { get; set; }
+
+        public RosType(ros_type r)
+        {
+            this.RosTypeId = r.ros_type_id;
+            this.RosTypeName = r.ros_type_name;
+        }
+        public RosType() { }
+    }
+    public class UserLog
+    {
+        [Display(Name = "记录ID")]
+        [JsonProperty("logId")]
+        public int LogId { get; set; }
+        [Display(Name = "操作台名称")]
+        [JsonProperty("rosName")]
+        public string RosName { get; set; }
+        [Display(Name = "用户名")]
+        [JsonProperty("rosTypeName")]
+        public string UserName { get; set; }
+        [Display(Name = "登录类型")]
+        [JsonProperty("rosTypeName")]
+        public string LoginType { get; set; }
+        [Display(Name = "登录时间")]
+        [JsonProperty("rosTypeName")]
+        public string LoginTime { get; set; }
+        [Display(Name = "登出类型")]
+        [JsonProperty("rosTypeName")]
+        public string LogoutType { get; set; }
+        [Display(Name = "登出时间")]
+        [JsonProperty("rosTypeName")]
+        public string LogoutTime { get; set; }
+      
+        public UserLog() { }
     }
 }
