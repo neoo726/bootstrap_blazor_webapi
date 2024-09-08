@@ -1,0 +1,49 @@
+﻿@page "/setting"
+@attribute [TabItemOption(Text = "Setting")]
+
+ <GroupBox Title="登录优先策略" style="margin-bottom:10px">
+   <RadioList TValue="string" Items="@LoginFirstItems" OnSelectedChanged="@OnSelectedChanged" />
+</GroupBox>
+
+<GroupBox Title="跨操作台登录策略"  style="margin-bottom:10px">
+  <Switch OnColor="Color.Success" OffColor="Color.Danger" OnText="允许" OffText="关闭" />
+
+</GroupBox>
+
+<GroupBox Title="登出需要密码策略"  style="margin-bottom:10px">
+  <Switch OnColor="Color.Success" OffColor="Color.Danger" OnText="允许" OffText="关闭" />
+</GroupBox>
+
+<GroupBox Title="心跳超时策略"  style="margin-bottom:10px">
+  <BootstrapInput PlaceHolder="请输入..."
+                        TValue="string"
+                        IsAutoFocus="true"
+                        IsSelectAllTextOnFocus="true"
+                        ShowLabel="true"
+                        DisplayText="默认心跳中断（超时）60秒后，强制登出该用户" />
+</GroupBox>
+<div class="row g-3">
+    <div class="col-auto">
+        <Button Color="Color.Primary" Icon="fa-solid fa-font-awesome" Text="保存"></Button>
+    </div>
+    <div class="col-auto">
+        <Button Color="Color.Secondary" Icon="fa-solid  fas fa-arrow-rotate-left" Text="重置"></Button>
+    </div>
+</div>
+
+
+@code {
+
+    private List<SelectedItem> LoginFirstItems { get; set; } = new List<SelectedItem>
+    {
+        new SelectedItem(){ Text="先登录优先",Value="1"},
+        new SelectedItem(){ Text="后登录优先",Value="2"}
+    };
+
+    private Task OnSelectedChanged(IEnumerable<SelectedItem> values, string val)
+    {
+        var value = values.FirstOrDefault();
+        // Logger.Log($"{"组件选中值:"} {value?.Value}  {"显示值:"}{value?.Text}  {"组件 Value 值:"}{val}");
+        return Task.CompletedTask;
+    }
+}

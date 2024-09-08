@@ -1,0 +1,27 @@
+﻿@page "/ros"
+@attribute [TabItemOption(Text = "ROS")]
+<PageTitle>Table</PageTitle>
+
+ <Tab IsCard="true">
+    <TabItem Text="操作台">
+        <Table TItem="Foo" IsPagination="true" PageItemsSource="PageItemsSource" class="table-demo"
+                IsStriped="true" IsBordered="true" ShowSkeleton="true" IsMultipleSelect="true"
+                ShowToolbar="true" ShowSearch="true" ShowExtendButtons="true"
+                AutoGenerateColumns="true" EditMode="EditMode.Popup">
+            <TableColumns>
+                <TableColumn @bind-Field="@context.Hobby" Items="GetHobbys(context)" />
+            </TableColumns>
+        </Table>
+    </TabItem>
+    <TabItem Text="操作台类型">
+        <Table TItem="Foo" IsPagination="true" PageItemsSource="PageItemsSource" class="table-demo"
+                IsStriped="true" IsBordered="true" ShowSkeleton="true" IsMultipleSelect="true"
+                ShowToolbar="true" ShowSearch="true" ShowExtendButtons="true"
+                AutoGenerateColumns="true" EditMode="EditMode.Popup">
+            <TableColumns>
+                <TableColumn @bind-Field="@context.Hobby" Items="GetHobbys(context)" />
+            </TableColumns>
+        </Table>
+    </TabItem>
+ </Tab>
+

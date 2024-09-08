@@ -1,0 +1,181 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DataView_UMS.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DataView_UMS.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\Argo-C.png",
+      "PackagePath": "staticwebassets\\images\\Argo-C.png"
+    },
+    {
+      "Id": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\Argo.png",
+      "PackagePath": "staticwebassets\\images\\Argo.png"
+    },
+    {
+      "Id": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\Ros0.svg",
+      "PackagePath": "staticwebassets\\images\\Ros0.svg"
+    },
+    {
+      "Id": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\Ros1.svg",
+      "PackagePath": "staticwebassets\\images\\Ros1.svg"
+    },
+    {
+      "Id": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-1.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\150-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-10.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\150-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-11.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\150-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-12.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\150-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-13.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\150-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-14.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\150-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-15.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\150-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-16.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\150-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-17.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\150-17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-18.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\150-18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-19.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\150-19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-2.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\150-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-20.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\150-20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-21.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\150-21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-22.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\150-22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-23.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\150-23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-24.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\150-24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-3.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\150-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-4.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\150-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-5.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\150-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-6.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\150-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-7.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\150-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-8.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\150-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\avatars\\150-9.jpg",
+      "PackagePath": "staticwebassets\\images\\avatars\\150-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\logo.ico",
+      "PackagePath": "staticwebassets\\images\\logo.ico"
+    },
+    {
+      "Id": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\logout.svg",
+      "PackagePath": "staticwebassets\\images\\logout.svg"
+    },
+    {
+      "Id": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\password.svg",
+      "PackagePath": "staticwebassets\\images\\password.svg"
+    },
+    {
+      "Id": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\user (1).svg",
+      "PackagePath": "staticwebassets\\images\\user (1).svg"
+    },
+    {
+      "Id": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\user.png",
+      "PackagePath": "staticwebassets\\images\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\user.svg",
+      "PackagePath": "staticwebassets\\images\\user.svg"
+    },
+    {
+      "Id": "C:\\Users\\Gaojiang\\source\\repos\\DataView_UMS\\DataView_UMS\\wwwroot\\images\\zpmc.png",
+      "PackagePath": "staticwebassets\\images\\zpmc.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DataView_UMS.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DataView_UMS.props",
+      "PackagePath": "build\\DataView_UMS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DataView_UMS.props",
+      "PackagePath": "buildMultiTargeting\\DataView_UMS.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DataView_UMS.props",
+      "PackagePath": "buildTransitive\\DataView_UMS.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

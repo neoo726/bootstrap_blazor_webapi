@@ -1,0 +1,6 @@
+C:\Users\Gaojiang\source\repos\DataView_UMS\DataView_UMS\obj\Debug\net6.0\DataView_UMS.csproj.AssemblyReference.cache
+C:\Users\Gaojiang\source\repos\DataView_UMS\DataView_UMS\obj\Debug\net6.0\DataView_UMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaojiang\source\repos\DataView_UMS\DataView_UMS\obj\Debug\net6.0\DataView_UMS.AssemblyInfoInputs.cache
+C:\Users\Gaojiang\source\repos\DataView_UMS\DataView_UMS\obj\Debug\net6.0\DataView_UMS.AssemblyInfo.cs
+C:\Users\Gaojiang\source\repos\DataView_UMS\DataView_UMS\obj\Debug\net6.0\DataView_UMS.csproj.CoreCompileInputs.cache
+C:\Users\Gaojiang\source\repos\DataView_UMS\DataView_UMS\obj\Debug\net6.0\DataView_UMS.MvcApplicationPartsAssemblyInfo.cache

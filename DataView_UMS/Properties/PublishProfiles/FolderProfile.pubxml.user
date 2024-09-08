@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Gaojiang\source\repos\DataView_UMS\DataView_UMS\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2024-09-08T04:46:46.2724633Z||;True|2024-09-08T09:40:41.9354109+08:00||;True|2024-09-08T09:26:14.9662594+08:00||;True|2024-09-08T09:03:25.5107553+08:00||;True|2024-09-08T09:03:00.7266421+08:00||;False|2024-09-08T09:02:44.6388148+08:00||;True|2024-09-08T08:58:19.5402347+08:00||;True|2024-09-08T08:57:05.5720383+08:00||;True|2024-09-08T08:45:50.9166916+08:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,168 @@
+@import '_content/BootstrapBlazor/BootstrapBlazor.bundle.scp.css';
+
+/* _content/DataView_UMS/Components/Pages/Users.razor.rz.scp.css */
+.page-user[b-1emnqkobqj] {
+    height: calc(100vh - 162px);
+}
+/* _content/DataView_UMS/Components/Shared/LoginLayout.razor.rz.scp.css */
+.layout-drawer-body[b-v70qkwh01h] {
+    padding: 1rem;
+}
+
+    .layout-drawer-body[b-v70qkwh01h]  .groupbox {
+        margin-top: 1rem;
+    }
+
+    .layout-drawer-body[b-v70qkwh01h]  .btn-info {
+        margin-bottom: 1rem;
+    }
+
+.layout-item[b-v70qkwh01h] {
+    --bb-layout-sidebar-bg: #f8f9fa;
+    --bb-layout-footer-bg: #e9ecef;
+    cursor: pointer;
+    border: 2px solid #e9ecef;
+    padding: 4px;
+    border-radius: 4px;
+    height: 80px;
+    width: 120px;
+    transition: border .3s linear;
+}
+
+    .layout-item:hover[b-v70qkwh01h],
+    .layout-item.active[b-v70qkwh01h] {
+        border: 2px solid #28a745;
+    }
+
+    .layout-item .layout-left[b-v70qkwh01h] {
+        width: 30%;
+        border-right: 1px solid var(--bs-border-color);
+    }
+
+        .layout-item .layout-left .layout-left-header[b-v70qkwh01h] {
+            height: 16px;
+            background-color: var(--bb-header-bg);
+        }
+
+        .layout-item .layout-left .layout-left-body[b-v70qkwh01h],
+        .layout-item .layout-body .layout-left[b-v70qkwh01h] {
+            background-color: var(--bb-layout-sidebar-bg);
+        }
+
+    .layout-item .layout-right .layout-right-header[b-v70qkwh01h],
+    .layout-item .layout-top[b-v70qkwh01h] {
+        background-color: var(--bb-header-bg);
+        height: 16px;
+    }
+
+    .layout-item .layout-right .layout-right-footer[b-v70qkwh01h],
+    .layout-item .layout-right-footer[b-v70qkwh01h] {
+        background-color: var(--bb-layout-footer-bg);
+        height: 12px;
+    }
+
+    .layout-item .layout-top[b-v70qkwh01h],
+    .layout-item .layout-body[b-v70qkwh01h],
+    .layout-item .layout-right-footer[b-v70qkwh01h] {
+        width: 100%;
+    }
+
+#blazor-error-ui[b-v70qkwh01h] {
+    background: lightyellow;
+    bottom: 0;
+    box-shadow: 0 -1px 2px rgba(0, 0, 0, 0.2);
+    display: none;
+    left: 0;
+    padding: 0.6rem 1.25rem 0.7rem 1.25rem;
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+}
+
+    #blazor-error-ui .dismiss[b-v70qkwh01h] {
+        cursor: pointer;
+        position: absolute;
+        right: 0.75rem;
+        top: 0.5rem;
+    }
+/* _content/DataView_UMS/Components/Shared/MainLayout.razor.rz.scp.css */
+.layout-drawer-body[b-hyv2378urs] {
+    padding: 1rem;
+}
+
+    .layout-drawer-body[b-hyv2378urs]  .groupbox {
+        margin-top: 1rem;
+    }
+
+    .layout-drawer-body[b-hyv2378urs]  .btn-info {
+        margin-bottom: 1rem;
+    }
+
+.layout-item[b-hyv2378urs] {
+    --bb-layout-sidebar-bg: #f8f9fa;
+    --bb-layout-footer-bg: #e9ecef;
+    cursor: pointer;
+    border: 2px solid #e9ecef;
+    padding: 4px;
+    border-radius: 4px;
+    height: 80px;
+    width: 120px;
+    transition: border .3s linear;
+}
+
+    .layout-item:hover[b-hyv2378urs],
+    .layout-item.active[b-hyv2378urs] {
+        border: 2px solid #28a745;
+    }
+
+    .layout-item .layout-left[b-hyv2378urs] {
+        width: 30%;
+        border-right: 1px solid var(--bs-border-color);
+    }
+
+        .layout-item .layout-left .layout-left-header[b-hyv2378urs] {
+            height: 16px;
+            background-color: var(--bb-header-bg);
+        }
+
+        .layout-item .layout-left .layout-left-body[b-hyv2378urs],
+        .layout-item .layout-body .layout-left[b-hyv2378urs] {
+            background-color: var(--bb-layout-sidebar-bg);
+        }
+
+    .layout-item .layout-right .layout-right-header[b-hyv2378urs],
+    .layout-item .layout-top[b-hyv2378urs] {
+        background-color: var(--bb-header-bg);
+        height: 16px;
+    }
+
+    .layout-item .layout-right .layout-right-footer[b-hyv2378urs],
+    .layout-item .layout-right-footer[b-hyv2378urs] {
+        background-color: var(--bb-layout-footer-bg);
+        height: 12px;
+    }
+
+    .layout-item .layout-top[b-hyv2378urs],
+    .layout-item .layout-body[b-hyv2378urs],
+    .layout-item .layout-right-footer[b-hyv2378urs] {
+        width: 100%;
+    }
+
+#blazor-error-ui[b-hyv2378urs] {
+    background: lightyellow;
+    bottom: 0;
+    box-shadow: 0 -1px 2px rgba(0, 0, 0, 0.2);
+    display: none;
+    left: 0;
+    padding: 0.6rem 1.25rem 0.7rem 1.25rem;
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+}
+
+    #blazor-error-ui .dismiss[b-hyv2378urs] {
+        cursor: pointer;
+        position: absolute;
+        right: 0.75rem;
+        top: 0.5rem;
+    }

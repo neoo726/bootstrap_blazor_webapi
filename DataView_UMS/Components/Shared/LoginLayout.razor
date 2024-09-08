@@ -1,0 +1,25 @@
+﻿@inherits LayoutComponentBase
+
+<BootstrapBlazorRoot>
+    <Layout SideWidth="0" IsPage="true"
+            TabDefaultUrl="/login"
+            AdditionalAssemblies="new[] { GetType().Assembly }" class="@Theme">
+        <Main >
+            <div class="d-flex justify-content-center align-items-center h-100" style="padding-top: 10%;">
+                @Body
+                </div>
+        </Main>
+        
+        <NotFound>
+            <p>Sorry, there's nothing at this address.</p>
+        </NotFound>
+    </Layout>
+
+    
+</BootstrapBlazorRoot>
+
+<div id="blazor-error-ui">
+    An unhandled error has occurred.
+    <a href="" class="reload">Reload</a>
+    <a class="dismiss">🗙</a>
+</div>

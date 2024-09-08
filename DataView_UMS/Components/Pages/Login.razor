@@ -1,0 +1,77 @@
+﻿@page "/login"
+@using System.Diagnostics.CodeAnalysis
+@layout LoginLayout
+@inject MessageService MessageService
+ <Card IsShadow=true>
+    <BodyTemplate>
+         <div class="row g-3"  >
+              <div class="col-12 col-sm-12 text-center">
+                  <h1 style="font-weight: bold; color: #0096ea;">UMS</h1>
+              </div>
+    <div class="col-12 col-sm-12">
+        <BootstrapInput PlaceHolder="UserName"
+                        TValue="string"
+                        IsAutoFocus="true"
+                        IsSelectAllTextOnFocus="true"
+                        ShowLabel="true"  
+                         @bind-value="@model.UserName"/>
+
+    </div>
+    <div class="col-12 col-sm-12">
+        <BootstrapPassword  PlaceHolder="Password"
+                        TValue="string"
+                        IsSelectAllTextOnFocus="true"  
+                        ShowLabel="true"  
+                        type="Password"
+                        @bind-value="@model.Password"
+                        />
+
+    </div>
+    <div class="col-12 col-sm-12 d-grid">
+        <Button Type="submit" Color="Color.Primary" Block="true" OnClick="@LoginClick">Login</Button>
+    </div>
+</div>
+    </BodyTemplate>
+ </Card>
+@code {
+    [Inject]
+    [NotNull]
+    private MessageService? MsgSvr { get; set; }
+    private LoginModel model = new LoginModel(){ UserName="admin"};
+    private NavigationManager NavigationManager { get; set; }
+    private bool isLoggedIn = false;
+
+    [Inject]
+    public NavigationManager NavigationManagerInjection { set => NavigationManager = value; }
+
+    private async Task LoginClick(MouseEventArgs e)
+    {
+        if (model.UserName == "admin" && model.Password == "Zpmc@3261")
+        {
+            isLoggedIn = true;
+            NavigationManager.NavigateTo("/");
+        }
+        else
+        {
+            // 显示错误信息
+            ShowColorMessage(Color.Danger, "Username or password is incorrect");
+        }
+    }
+    private async Task ShowColorMessage(Color color,string str)
+    {
+        await MsgSvr.Show(new MessageOption()
+            {
+                Content = str,
+                Icon = "fa-solid fa-circle-info",
+                Color = color
+            });
+    }
+    public class LoginModel
+    {
+        [Required(ErrorMessage = "用户名不能为空")]
+        public string UserName { get; set; }
+
+        [Required(ErrorMessage = "密码不能为空")]
+        public string Password { get; set; }
+    }
+}
